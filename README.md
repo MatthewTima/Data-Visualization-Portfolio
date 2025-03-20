@@ -104,5 +104,3 @@ This dashboard provides a comprehensive view of customer characteristics associa
  
  *   Email: matthewtima04@gmail.com
  *   LinkedIn: https://www.linkedin.com/in/matthew-tima-91227a275/
- *   Email: matthewtima04@gmail.com
- *   LinkedIn: https://www.linkedin.com/in/matthew-tima-91227a275/
