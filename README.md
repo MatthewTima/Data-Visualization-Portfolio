@@ -24,10 +24,12 @@ This dashboard provides a comprehensive view of customer characteristics associa
     *   **Hover Action:** Highlights related data points across all visualizations when hovering over a specific job type in the tree map.
     *   **Deposit Filter:** Allows users to filter the data to show only customers who subscribed or did not subscribe to a term deposit.
 *   **Screenshot:**
-    ![Tableau Customer Profile Dashboard](./images/tableau_customer_profile.png)
+    ![Tableau Customer Profile Dashboard](![image](https://github.com/user-attachments/assets/3ff60fb2-547d-496c-87b9-0042bc378c4d)
+)
     <details>
     <summary>Click to expand full image</summary>
-    <img src="./images/tableau_customer_profile_full.png" alt="Tableau Customer Profile Dashboard Full">
+    <img src=".![image](https://github.com/user-attachments/assets/1d7ef6b0-36d5-4d82-b850-ac42a1b28dff)
+">
     </details>
 *   **Interactive Version:** [Link to Tableau Public (if available)]
 
@@ -102,3 +104,5 @@ The dataset used in this project contains 11,162 records detailing marketing cam
 
 *   Email: matthewtima04@gmail.com
 *   LinkedIn: https://www.linkedin.com/in/matthew-tima-91227a275/
+
+
