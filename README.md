@@ -1,29 +1,17 @@
-# Data Visualization Portfolio - Matthew Tima
- # Bank Marketing Campaign Visualization Portfolio
+# Bank Marketing Campaign Visualization Portfolio
  
- Welcome to my data visualization portfolio! Here you'll find a collection of dashboards and visualizations I've created using tools like Power BI and Tableau.
  This repository showcases data visualizations created to analyze the effectiveness of bank marketing campaigns and understand customer behavior related to term deposit subscriptions. The dashboards were developed using Tableau and Power BI, leveraging a dataset of over 11,000 customer records.
  
- ## About Me
  ## Project Overview
  
- I am a data analyst with a passion for transforming raw data into actionable insights through compelling visualizations. I have experience in data cleaning, data modeling, dashboard design, and storytelling.
  The goal of this project is to provide actionable insights for banks to optimize their marketing strategies, target the right customer segments, and improve overall campaign performance. The visualizations focus on identifying key customer profiles likely to subscribe to term deposits and assessing the impact of marketing efforts on deposit subscriptions.
  
- ## Portfolio Pieces
  ## Dashboards
  
- ### 1. Sales Performance Dashboard
  ### Tableau: Customer Profile Dashboard
  
- *   **Description:** A dashboard tracking sales performance over time, with key metrics such as revenue, profit margin, and customer acquisition cost.
- *   **Data Source:** Sample sales data from [Link to Data Source (if publicly available)]
- *   **Skills:** Data cleaning, DAX calculations, time series analysis, visual design
- *   **Screenshot:** ![Sales Performance Dashboard](./Sales-Performance-Dashboard/sales_dashboard.png)
- *   **Interactive Version:** [Link to Tableau Public or Power BI Online (if available)]
  This dashboard provides a comprehensive view of customer characteristics associated with deposit subscriptions.
  
- ### 2. Customer Segmentation Analysis
  *   **Description:** The "Customer Profile" dashboard in Tableau presents key customer demographics and their relationship to deposit subscriptions. It uses a combination of visualizations to provide a holistic view of customer behavior.
  *   **Visualizations:**
      *   **Jobs Deposit Subscription (Bar Chart):** Shows the number of deposit subscriptions by job type.
@@ -36,21 +24,17 @@
      *   **Hover Action:** Highlights related data points across all visualizations when hovering over a specific job type in the tree map.
      *   **Deposit Filter:** Allows users to filter the data to show only customers who subscribed or did not subscribe to a term deposit.
  *   **Screenshot:**
-     ![Tableau Customer Profile Dashboard](./images/tableau_customer_profile.png)
+     ![Tableau Customer Profile Dashboard](![image](https://github.com/user-attachments/assets/3ff60fb2-547d-496c-87b9-0042bc378c4d)
+ )
      <details>
      <summary>Click to expand full image</summary>
-     <img src="./images/tableau_customer_profile_full.png" alt="Tableau Customer Profile Dashboard Full">
+     <img src=".![image](https://github.com/user-attachments/assets/1d7ef6b0-36d5-4d82-b850-ac42a1b28dff)
+ ">
      </details>
  *   **Interactive Version:** [Link to Tableau Public (if available)]
  
- *   **Description:** A visualization showing customer segments based on demographics, purchase history, and engagement metrics.
- *   **Data Source:** Customer data from [Link to Data Source (if publicly available)]
- *   **Skills:** Data clustering, customer segmentation, Tableau calculated fields, interactive filtering
- *   **Screenshot:** ![Customer Segmentation Analysis](./Customer-Segmentation-Analysis/customer_segmentation.png)
- *   **Interactive Version:** [Link to Tableau Public or Power BI Online (if available)]
  **Data Insights:**
  
- ## Skills
  The Tableau dashboard reveals that "management" and "retired" individuals are more likely to subscribe to deposit services and maintain higher account balances. This suggests that banks can improve marketing efficiency by targeting these segments with tailored offers and communication strategies.
  
  ### Power BI: Bank Data Dashboard
