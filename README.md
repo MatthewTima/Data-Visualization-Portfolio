@@ -48,11 +48,10 @@ This dashboard provides a comprehensive view of customer characteristics associa
  *   **Interactive Features:**
      *   **Drill Down:** Allows users to drill down into the pie chart to see the distribution of deposits by outcome, month, and campaign.
      *   **Month Filter:** Enables users to filter the data by specific months.
+       
  *   **Screenshot:**
-         ![Power BI Bank Data Dashboard](./images/powerbi_bank_data_dashboard.png)
-         <details>
-         <summary>Click to expand full image</summary>
-         <img src="./images/powerbi_bank_data_dashboard_full.png" alt="Power BI Bank Data Dashboard Full">
+
+         <img src="powerbi/Power BI Dashboard.PNG" alt="Power BI Bank Data Dashboard Full">
          </details>
  
  *   **Interactive Version:** [Link to Power BI Online (if available)]
