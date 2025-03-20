@@ -25,7 +25,7 @@ This dashboard provides a comprehensive view of customer characteristics associa
      *   **Hover Action:** Highlights related data points across all visualizations when hovering over a specific job type in the tree map.
      *   **Deposit Filter:** Allows users to filter the data to show only customers who subscribed or did not subscribe to a term deposit.
  *   **Screenshot:**
-     ![Tableau Customer Profile Dashboard](./tableau/Tableau Bank Dashboard.PNG)
+     ![Tableau Customer Profile Dashboard](tableau/Tableau Bank Dashboard.PNG)
      <details>
      <summary>Click to expand full image</summary>
      <img src="./tableau/Tableau Bank Dashboard.PNG" alt="Tableau Customer Profile Dashboard Full">
