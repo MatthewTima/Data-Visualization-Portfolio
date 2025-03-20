@@ -1,4 +1,3 @@
-# Data Visualization Portfolio - Matthew Tima
 # Bank Marketing Campaign Visualization Portfolio
 
 This repository showcases data visualizations created to analyze the effectiveness of bank marketing campaigns and understand customer behavior related to term deposit subscriptions. The dashboards were developed using Tableau and Power BI, leveraging a dataset of over 11,000 customer records.
