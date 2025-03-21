@@ -13,6 +13,7 @@ The goal of this project is to provide actionable insights for banks to optimize
 This dashboard provides a comprehensive view of customer characteristics associated with deposit subscriptions.
 
 * **Description:** The "Customer Profile" dashboard in Tableau presents key customer demographics and their relationship to deposit subscriptions. It uses a combination of visualizations to provide a holistic view of customer behavior.
+  
 * **Visualizations:**
   * **Jobs Deposit Subscription (Bar Chart):** Shows the number of deposit subscriptions by job type.
     * **Insight:** "Management" jobs have the highest number of deposit subscriptions, followed by "retired" individuals.
@@ -20,12 +21,15 @@ This dashboard provides a comprehensive view of customer characteristics associa
     * **Insight:** "Retired" individuals have the highest average balance, followed by "management."
   * **Subscription Education (Pie Chart):** Illustrates the distribution of customers based on their education levels and subscription status.
     * **Insight:** Provides a quick comparison of the proportion of subscribers across different education levels.
+      
 * **Interactive Features:**
   * **Hover Action:** Highlights related data points across all visualizations when hovering over a specific job type in the tree map.
   * **Deposit Filter:** Allows users to filter the data to show only customers who subscribed or did not subscribe to a term deposit.
+    
 * **Screenshot:**
-
-  ![Tableau Customer Profile Dashboard Full](images/tableau/Tableau_Bank_Dashboard.PNG)
+  
+     <img src="./tableau/Tableau Bank Dashboard.PNG" alt="Tableau Customer Profile Dashboard Full">
+     </details>
 
 * **Interactive Version:** [Link to Tableau Public (if available)]
 
