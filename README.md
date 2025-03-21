@@ -55,7 +55,8 @@ This dashboard displays key performance indicators (KPIs) and trends related to 
 
 * **Screenshot:**
 
-  ![Power BI Bank Data Dashboard](images/powerbi/Power_BI_Dashboard.PNG)
+  <img src="./powerbi/Power BI Dashboard.PNG" alt="Power BI Bank Dashboard Full">
+     </details>
 
 * **Interactive Version:** [Link to Power BI Online (if available)]
 
