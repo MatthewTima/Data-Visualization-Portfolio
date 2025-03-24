@@ -31,8 +31,6 @@ This dashboard provides a comprehensive view of customer characteristics associa
      <img src="./tableau/Tableau Bank Dashboard.PNG" alt="Tableau Customer Profile Dashboard Full">
      </details>
 
-* **Interactive Version:** [Link to Tableau Public (if available)]
-
 **Data Insights:**
 
 The Tableau dashboard reveals that "management" and "retired" individuals are more likely to subscribe to deposit services and maintain higher account balances. This suggests that banks can improve marketing efficiency by targeting these segments with tailored offers and communication strategies.
@@ -58,7 +56,6 @@ This dashboard displays key performance indicators (KPIs) and trends related to 
   <img src="./powerbi/Power BI Dashboard.PNG" alt="Power BI Bank Dashboard Full">
      </details>
 
-* **Interactive Version:** [Link to Power BI Online (if available)]
 
 **Data Insights:**
 
